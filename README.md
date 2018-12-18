@@ -1,5 +1,7 @@
 # cargo-fel4
 
+_note: this is a private fork of [another repository](https://github.com/maindotrs/cargo-fel4.git)._
+
 ## Overview
 
 A cargo subcommand for automating feL4 (seL4 for Rust) development
