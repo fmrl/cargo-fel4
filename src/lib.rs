@@ -4,7 +4,6 @@ extern crate colored;
 extern crate fel4_config;
 #[macro_use]
 extern crate log;
-#[macro_use]
 extern crate structopt;
 
 use colored::Colorize;
