@@ -44,7 +44,6 @@ impl<'a, 'b, 'c, W: Write> Generator<'a, 'b, 'c, W> {
 use core::alloc::Layout;
 use core::intrinsics;
 use core::panic::PanicInfo;
-use core::mem;
 use sel4_sys::*;\n\n",
         )?;
 
